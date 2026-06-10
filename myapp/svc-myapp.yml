@@ -10,4 +10,4 @@ spec:
     protocol: TCP
   selector:
     app: myapp
-  type: LoadBalancer
+  type: ClusterIP
