@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
   - name: cont1
-    image: quay.io/redhattraining/hello-world-nginx
+    image: default-route-openshift-image-registry.apps-crc.testing/openshift/httpd
