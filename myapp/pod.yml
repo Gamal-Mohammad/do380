@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
   - name: cont1
-    image: default-route-openshift-image-registry.apps-crc.testing/openshift/httpd
+    image: bitnami/nginx
